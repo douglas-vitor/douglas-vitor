@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=79ff97&text_color=FF0000&bg_color=151515)
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=151515)
 <!--
 **douglas-vitor/douglas-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
