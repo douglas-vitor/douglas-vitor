@@ -7,12 +7,13 @@
 
 <a href="https://www.linkedin.com/in/douglas-vitor-7576a3150" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<div style="display:grid; grid-template: 1fr / 1fr 1fr; align-items:center; justify-items: center;">
-<img src="5R7f.gif" width="150px" height="150px">
-  
+<div width="auto" height="300px" style="display:grid; grid-template: 1fr / 1fr 1fr; align-items:center; justify-items: center;">
+
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FFD700&text_color=0000CD&bg_color=151515)
 
+<img src="5R7f.gif" width="300px" height="150px">
 </div>
+
 </div>
 <!--
 **douglas-vitor/douglas-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
