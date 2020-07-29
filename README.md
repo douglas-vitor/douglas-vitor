@@ -9,7 +9,7 @@
 
 <div width="auto" height="300px" style="display:grid; grid-template: 1fr / 1fr 1fr; align-items:center; justify-items: center;">  
 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FFD700&text_color=0000CD&bg_color=151515) <img src="https://github.com/douglas-vitor/douglas-vitor/5R7f.gif" width="390px" height="195px">
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FFD700&text_color=0000CD&bg_color=151515) <img src="https://github.com/douglas-vitor/douglas-vitor/blob/master/5R7f.gif" width="390px" height="195px">
 </div>
 
 </div>
