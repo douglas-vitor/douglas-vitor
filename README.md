@@ -1,19 +1,11 @@
-
-
 <div id="context" style="position: relative;" align="center">
-
-<div class="esquerda effect-e" id="sabre" style="position: absolute;width: 15px;height: 200px;border-radius: 15px 15px 0 0;border: 1px solid #23D2EC;box-shadow: -2px -5px 10px #23D2EC;left: 210px;background: #0000FF;transform: rotate(45deg);">
-</div>
-
+<div class="esquerda effect-e" id="sabre" style="position: absolute;width: 15px;height: 200px;border-radius: 15px 15px 0 0;border: 1px solid #23D2EC;box-shadow: -2px -5px 10px #23D2EC;left: 210px;background: #0000FF;transform: rotate(45deg);"></div>
 <div class="esquerda" id="punhoE" style="position: absolute;top: 155px;left: 125px;width: 20px; height: 60px;background: linear-gradient(-90deg, #A9A9A9 0%, #DCDCDC 75%, #A9A9A9 100%);transform: rotate(45deg);border-radius: 1px 1px 3px 3px;">
-
 <div style="position: relative;top: 10px;border-radius: 50%;width: 3px;height: 3px;background: #0000CD;border: 6px solid #000000;">
 </div>
 </div>
 
-<div class="direita effect-d" id="sabre" style="position: absolute;width: 15px;height: 200px;border-radius: 15px 15px 0 0;box-shadow: -2px -5px 10px #FA8072;border: 1px solid #FA8072;left: 210px;background: red;transform: rotate(-45deg);">
-</div>
-
+<div class="direita effect-d" id="sabre" style="position: absolute;width: 15px;height: 200px;border-radius: 15px 15px 0 0;box-shadow: -2px -5px 10px #FA8072;border: 1px solid #FA8072;left: 210px;background: red;transform: rotate(-45deg);"></div>
 <div class="direita" id="punhoD" style="position: absolute;top: 155px;left: 295px;width: 20px;height: 60px;background: linear-gradient(-90deg, #000000 0%, #363636 75%, #000000 100%);border-radius: 1px 1px 3px 3px;transform: rotate(-45deg);">
 
 <div style="position: relative;top: 10px;border-radius: 50%;width: 3px;height: 3px;background: #FF0000;border: 6px solid #000000;">
