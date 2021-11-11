@@ -12,7 +12,8 @@
 </div>
 </div>
 
-<div class="stats" style="position: absolute;top: 80px;left: 50%;">
+<div class="stats" style="position: absolute;top: 80px;left: 50%;display:flex;">
+<img src="cat.gif" width="390px" height="195px" />
 
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FFD700&text_color=0000CD&bg_color=151515)
 
