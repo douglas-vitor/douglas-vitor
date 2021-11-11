@@ -13,9 +13,9 @@
 </div>
 
 <div class="stats" style="position: absolute;top: 80px;left: 50%;display:flex;">
-<img src="cat.gif" width="390px" height="195px" />
+<img src="cat.gif" width="100px" height="50px" />
 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FFD700&text_color=0000CD&bg_color=151515)
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FFD700&text_color=0000CD&bg_color=151515&width=100px&height=50px)
 
 
 <a style="text-decoration: none;position: absolute;top: 10px;left: 0;" href="https://www.linkedin.com/in/douglas-vitor-7576a3150" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </div>
