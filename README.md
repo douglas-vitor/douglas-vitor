@@ -12,8 +12,8 @@
 </div>
 </div>
 
-<div class="stats" style="position: absolute;top: 80px;left: 50%;display:grid;grid-template-columns:1fr 1fr;box-sizing: content-box;width: 200px;">
-<img src="cat.gif" width="auto" height="auto" />
+<div class="stats" style="position: absolute;top: 80px;left: 50%;display:grid;grid-template-columns:1fr 1fr;box-sizing: content-box;width: 100px;">
+<!--<img src="cat.gif" width="auto" height="auto" /> -->
 
 ![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=douglas-vitor&show_icons=true_color=FF0000&icon_color=FFD700&text_color=0000CD&bg_color=151515&width=100px&height=50px)
 
